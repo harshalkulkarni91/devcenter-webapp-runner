@@ -24,7 +24,7 @@ return true;
 </tr>
 <tr><td colspan=2>&nbsp;</td>
 </tr>
-<tr><td style="font-size:12pt;" align="center">Login Name:</td>
+<tr><td style="font-size:12pt;" align="center">User Name:</td>
 <td><input type="text" name="userName" value=""></td>
 </tr>
 <tr><td style="font-size:12pt;" align="center">Password:</td>
@@ -32,7 +32,7 @@ return true;
 </tr>
 <tr>
 <td></td>
-<td><input type="submit" name="Login" value="Login"></td>
+<td><input type="submit" name="submit" value="Login"></td>
 </tr>
 </table>
 </form>
