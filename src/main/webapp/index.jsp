@@ -3,12 +3,12 @@
 <script>
 function validLogin(){
 if (document.form.userName.value == ""){
-alert ( "Please enter Login Name." );
+alert ( "Login Name." );
 document.loginform.userName.focus();
 return false;
 }
 if (document.form.password.value == ""){
-alert ( "Please enter password." );
+alert ( "Password." );
 document.userform.password.focus();
 return false;
 }
