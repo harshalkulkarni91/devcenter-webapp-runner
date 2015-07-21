@@ -34,6 +34,10 @@ return true;
 <td></td>
 <td><input type="submit" name="submit" value="Login"></td>
 </tr>
+<tr>
+<td></td>
+<td><input type="reset" name="reset" value="Reset"></td>
+</tr>
 </table>
 </form>
 </body>
