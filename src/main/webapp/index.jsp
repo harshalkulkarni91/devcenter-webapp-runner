@@ -36,7 +36,7 @@ return true;
 </tr>
 <tr>
 <td></td>
-<td><input type="reset" name="reset all" value="Reset"></td>
+<td><input type="reset" name="reset" value="Reset All"></td>
 </tr>
 </table>
 </form>
