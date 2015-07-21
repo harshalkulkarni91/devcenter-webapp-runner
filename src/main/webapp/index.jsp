@@ -12,7 +12,7 @@ alert ( "Please enter password." );
 document.userform.password.focus();
 return false;
 }
-alert ( "Welcome User" );
+alert ( "Welcome new user" );
 return true;
 }
 </script>
